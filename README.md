@@ -1,1 +1,1 @@
-## This is a playground / learn project for htmx
+## This is a playground / learn project for htmx and honojs
